@@ -29,5 +29,7 @@ La práctica ha sido generada de manera individual.
 - Practica2.r
 - Readme.md
 - winequality-red.csv
-- winequality-red_preprocesada.csv
+- vinos_clean.csv
+- vinos_extended.csv
+- vinos_selected.csv
 - Práctica2_Sanjuan_de_Caso_Marta.pdf
